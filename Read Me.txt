@@ -1,0 +1,13 @@
+Player 1 controls(player on left):
+"A" = left
+"D" = right
+"W" = jump
+"F" = attack
+"G" = shield
+
+Player 2 controls(player on right):
+LEFT = left
+RIGHT = right
+UP = jump
+CONTROL = attack
+ALT = shield
